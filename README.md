@@ -1,4 +1,4 @@
-# Finance Sentiment Analysis
+# Finance Sentiment Analysis 
 
 This project focuses on sentiment analysis in finance, using machine learning and deep learning models to predict stock price movements based on financial news and market sentiment.
 
